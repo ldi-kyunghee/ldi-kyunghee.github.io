@@ -43,19 +43,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ldi-kyunghee.github.io/publication/bern2/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ldi-kyunghee.github.io/publication-type/pub_article_journal/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ldi-kyunghee.github.io/publication/biocreative/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication-type/pub_article_journal/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ldi-kyunghee.github.io/publication/biolama/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ldi-kyunghee.github.io/publication/densephrases/</loc>

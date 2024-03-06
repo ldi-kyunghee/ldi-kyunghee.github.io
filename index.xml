@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Language and Data Intelligence Lab</title>
+    <title>Mujeen Sung</title>
     <link>https://ldi-kyunghee.github.io/</link>
       <atom:link href="https://ldi-kyunghee.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Language and Data Intelligence Lab</description>
+    <description>Mujeen Sung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ldi-kyunghee.github.io/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
-      <title>Language and Data Intelligence Lab</title>
+      <title>Mujeen Sung</title>
       <link>https://ldi-kyunghee.github.io/</link>
     </image>
     
@@ -98,7 +98,7 @@
     <item>
       <title>BERN2 an advanced neural biomedical named entity recognition and normalization tool</title>
       <link>https://ldi-kyunghee.github.io/publication/bern2/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://ldi-kyunghee.github.io/publication/bern2/</guid>
       <description></description>
     </item>
@@ -114,7 +114,7 @@
     <item>
       <title>Can Language Models be Biomedical Knowledge Bases?</title>
       <link>https://ldi-kyunghee.github.io/publication/biolama/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://ldi-kyunghee.github.io/publication/biolama/</guid>
       <description></description>
     </item>
@@ -376,7 +376,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-297834165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-158436972&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -386,7 +386,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-297834165&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-158436972&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pub_article_journal | Language and Data Intelligence Lab</title>
+    <title>Pub_article_journal | Mujeen Sung</title>
     <link>https://ldi-kyunghee.github.io/publication-type/pub_article_journal/</link>
       <atom:link href="https://ldi-kyunghee.github.io/publication-type/pub_article_journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Pub_article_journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ldi-kyunghee.github.io/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
       <title>Pub_article_journal</title>
@@ -15,7 +15,7 @@
     <item>
       <title>BERN2 an advanced neural biomedical named entity recognition and normalization tool</title>
       <link>https://ldi-kyunghee.github.io/publication/bern2/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://ldi-kyunghee.github.io/publication/bern2/</guid>
       <description></description>
     </item>
