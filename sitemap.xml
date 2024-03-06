@@ -2,159 +2,159 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ldi-kyunghee.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:4321/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/event/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:4321/publication-type/paper-conference/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/pie/</loc>
+    <loc>http://localhost:4321/publication/pie/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:4321/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/post/</loc>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/tour/</loc>
+    <loc>http://localhost:4321/publication/tour/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/bern2/</loc>
+    <loc>http://localhost:4321/publication/bern2/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication-type/pub_article_journal/</loc>
+    <loc>http://localhost:4321/publication-type/pub_article_journal/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/biocreative/</loc>
+    <loc>http://localhost:4321/publication/biocreative/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/biolama/</loc>
+    <loc>http://localhost:4321/publication/biolama/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/densephrases/</loc>
+    <loc>http://localhost:4321/publication/densephrases/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/academic/</loc>
+    <loc>http://localhost:4321/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/category/demo/</loc>
+    <loc>http://localhost:4321/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/post/getting-started/</loc>
+    <loc>http://localhost:4321/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:4321/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/plot/</loc>
+    <loc>http://localhost:4321/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/category/r/</loc>
+    <loc>http://localhost:4321/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/r-markdown/</loc>
+    <loc>http://localhost:4321/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/regression/</loc>
+    <loc>http://localhost:4321/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/advsr/</loc>
+    <loc>http://localhost:4321/publication/advsr/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/biosyn/</loc>
+    <loc>http://localhost:4321/publication/biosyn/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/bioasq/</loc>
+    <loc>http://localhost:4321/publication/bioasq/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:4321/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/bern/</loc>
+    <loc>http://localhost:4321/publication/bern/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/slides/</loc>
+    <loc>http://localhost:4321/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/slides/example/</loc>
+    <loc>http://localhost:4321/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:4321/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/tag/demo/</loc>
+    <loc>http://localhost:4321/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/project/example/</loc>
+    <loc>http://localhost:4321/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/project/external-project/</loc>
+    <loc>http://localhost:4321/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/project/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

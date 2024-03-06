@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Mujeen Sung</title>
-    <link>https://ldi-kyunghee.github.io/publication/</link>
-      <atom:link href="https://ldi-kyunghee.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/publication/</link>
+      <atom:link href="http://localhost:4321/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ldi-kyunghee.github.io/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://ldi-kyunghee.github.io/publication/</link>
+      <link>http://localhost:4321/publication/</link>
     </image>
     
     <item>
       <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
-      <link>https://ldi-kyunghee.github.io/publication/pie/</link>
+      <link>http://localhost:4321/publication/pie/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/pie/</guid>
+      <guid>http://localhost:4321/publication/pie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Test-Time Query Representations for Dense Retrieval</title>
-      <link>https://ldi-kyunghee.github.io/publication/tour/</link>
+      <link>http://localhost:4321/publication/tour/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/tour/</guid>
+      <guid>http://localhost:4321/publication/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BERN2 an advanced neural biomedical named entity recognition and normalization tool</title>
-      <link>https://ldi-kyunghee.github.io/publication/bern2/</link>
+      <link>http://localhost:4321/publication/bern2/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/bern2/</guid>
+      <guid>http://localhost:4321/publication/bern2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-text chemical identification with improved generalizability and tagging consistency</title>
-      <link>https://ldi-kyunghee.github.io/publication/biocreative/</link>
+      <link>http://localhost:4321/publication/biocreative/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/biocreative/</guid>
+      <guid>http://localhost:4321/publication/biocreative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Language Models be Biomedical Knowledge Bases?</title>
-      <link>https://ldi-kyunghee.github.io/publication/biolama/</link>
+      <link>http://localhost:4321/publication/biolama/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/biolama/</guid>
+      <guid>http://localhost:4321/publication/biolama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Dense Representations of Phrases at Scale</title>
-      <link>https://ldi-kyunghee.github.io/publication/densephrases/</link>
+      <link>http://localhost:4321/publication/densephrases/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/densephrases/</guid>
+      <guid>http://localhost:4321/publication/densephrases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Subword Regularization for Robust Neural Machine Translation</title>
-      <link>https://ldi-kyunghee.github.io/publication/advsr/</link>
+      <link>http://localhost:4321/publication/advsr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/advsr/</guid>
+      <guid>http://localhost:4321/publication/advsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomedical Entity Representations with Synonym Marginalization</title>
-      <link>https://ldi-kyunghee.github.io/publication/biosyn/</link>
+      <link>http://localhost:4321/publication/biosyn/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/biosyn/</guid>
+      <guid>http://localhost:4321/publication/biosyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transferability of Natural Language Inference to Biomedical Question Answering</title>
-      <link>https://ldi-kyunghee.github.io/publication/bioasq/</link>
+      <link>http://localhost:4321/publication/bioasq/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/bioasq/</guid>
+      <guid>http://localhost:4321/publication/bioasq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining</title>
-      <link>https://ldi-kyunghee.github.io/publication/bern/</link>
+      <link>http://localhost:4321/publication/bern/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/bern/</guid>
+      <guid>http://localhost:4321/publication/bern/</guid>
       <description></description>
     </item>
     
