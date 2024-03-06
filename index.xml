@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
+      <link>https://ldi-kyunghee.github.io/publication/pie/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/pie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
       <link>https://ldi-kyunghee.github.io/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -85,31 +93,6 @@
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ldi-kyunghee.github.io/publication/tour/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
-      <link>https://ldi-kyunghee.github.io/publication/pie/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/pie/</guid>
-      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;h1 id=&#34;create-your-slides-in-markdown---click-the-_slides_-button-to-check-out-the-example&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/h1&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;heading-3&#34;&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;add-the-publications-full-text-or-supplementary-notes-here-you-can-use-rich-formatting-such-as-including-code-math-and-imageshttpsdocshugobloxcomcontentwriting-markdown-latex&#34;&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/h1&gt;
-</description>
     </item>
     
     <item>
@@ -393,7 +376,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-498362175&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-297834165&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -403,7 +386,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-498362175&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-297834165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -814,24 +797,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://ldi-kyunghee.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ldi-kyunghee.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://ldi-kyunghee.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ldi-kyunghee.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

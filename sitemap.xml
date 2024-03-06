@@ -14,6 +14,22 @@
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ldi-kyunghee.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ldi-kyunghee.github.io/publication/pie/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ldi-kyunghee.github.io/publication_types/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ldi-kyunghee.github.io/publication/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ldi-kyunghee.github.io/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,22 +42,6 @@
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/pie/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication_types/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ldi-kyunghee.github.io/publication/bern2/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,7 +50,7 @@
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ldi-kyunghee.github.io/publication-type/paper-journal/</loc>
+    <loc>https://ldi-kyunghee.github.io/publication-type/pub_article_journal/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -136,14 +136,6 @@
   </url><url>
     <loc>https://ldi-kyunghee.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ldi-kyunghee.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ldi-kyunghee.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ldi-kyunghee.github.io/tag/deep-learning/</loc>
