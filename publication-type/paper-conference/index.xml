@@ -13,53 +13,19 @@
     </image>
     
     <item>
-      <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
-      <link>https://ldi-kyunghee.github.io/publication/conference-paper/</link>
+      <title>Optimizing Test-Time Query Representations for Dense Retrieval</title>
+      <link>https://ldi-kyunghee.github.io/publication/tour/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ldi-kyunghee.github.io/publication/conference-paper/</guid>
-      <description>&lt;h1 id=&#34;abstract-&#34;&gt;abstract: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;author_notes-&#34;&gt;author_notes: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;--equal-contribution&#34;&gt;- Equal contribution&lt;/h1&gt;
-&lt;h1 id=&#34;--equal-contribution-1&#34;&gt;- Equal contribution&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;li&gt;Jungsoo Park&lt;/li&gt;
-&lt;li&gt;Jaewoo Kang&lt;/li&gt;
-&lt;li&gt;Danqi Chen&lt;/li&gt;
-&lt;li&gt;Jinhyuk Lee&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;date-2023-07-01t000000z&#34;&gt;date: &amp;ldquo;2023-07-01T00:00:00Z&amp;rdquo;&lt;/h1&gt;
-&lt;h1 id=&#34;doi-&#34;&gt;doi: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;p&gt;featured: true&lt;/p&gt;
-&lt;h1 id=&#34;image&#34;&gt;image:&lt;/h1&gt;
-&lt;h1 id=&#34;caption-image-credit-unsplashhttpsunsplashcomphotosplcdaamflte&#34;&gt;caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/pLCdAaMFLTE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/h1&gt;
-&lt;h1 id=&#34;focal_point-&#34;&gt;focal_point: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;preview_only-false&#34;&gt;preview_only: false&lt;/h1&gt;
-&lt;h1 id=&#34;projects&#34;&gt;projects:&lt;/h1&gt;
-&lt;h1 id=&#34;--example&#34;&gt;- example&lt;/h1&gt;
-&lt;p&gt;publication: In &lt;em&gt;Findings of ACL&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&#34;publication_short-in-icw&#34;&gt;publication_short: In &lt;em&gt;ICW&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;publication_types:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;paper-conference
-publishDate: &amp;ldquo;2023-07-01T00:00:00Z&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;slides-example&#34;&gt;slides: example&lt;/h1&gt;
-&lt;h1 id=&#34;summary-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-duis-posuere-tellus&#34;&gt;summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus&lt;/h1&gt;
-&lt;h1 id=&#34;ac-convallis-placerat-proin-tincidunt-magna-sed-ex-sollicitudin-condimentum&#34;&gt;ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/h1&gt;
-&lt;h1 id=&#34;tags-&#34;&gt;tags: []&lt;/h1&gt;
-&lt;p&gt;title: Optimizing Test-Time Query Representations for Dense Retrieval
-url_code: &lt;a href=&#34;https://github.com/dmis-lab/TouR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/dmis-lab/TouR&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;url_dataset-httpsgithubcomhugobloxhugo-blox-builder&#34;&gt;url_dataset: &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/HugoBlox/hugo-blox-builder&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;url_pdf: &lt;a href=&#34;https://aclanthology.org/2023.findings-acl.354.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://aclanthology.org/2023.findings-acl.354.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;url_poster-&#34;&gt;url_poster: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;url_project-&#34;&gt;url_project: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;url_slides-&#34;&gt;url_slides: &amp;quot;&amp;quot;&lt;/h1&gt;
-&lt;h1 id=&#34;url_source-httpsgithubcomhugobloxhugo-blox-builder&#34;&gt;url_source: &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/HugoBlox/hugo-blox-builder&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;url_video-httpsyoutubecom&#34;&gt;url_video: &lt;a href=&#34;https://youtube.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtube.com&lt;/a&gt;&lt;/h1&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+      <guid>https://ldi-kyunghee.github.io/publication/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
+      <link>https://ldi-kyunghee.github.io/publication/pie/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/pie/</guid>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
@@ -77,6 +43,46 @@ url_code: &lt;a href=&#34;https://github.com/dmis-lab/TouR&#34; target=&#34;_bla
 &lt;h1 id=&#34;heading-3&#34;&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;add-the-publications-full-text-or-supplementary-notes-here-you-can-use-rich-formatting-such-as-including-code-math-and-imageshttpsdocshugobloxcomcontentwriting-markdown-latex&#34;&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/h1&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Can Language Models be Biomedical Knowledge Bases?</title>
+      <link>https://ldi-kyunghee.github.io/publication/biolama/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/biolama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Dense Representations of Phrases at Scale</title>
+      <link>https://ldi-kyunghee.github.io/publication/densephrases/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/densephrases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Subword Regularization for Robust Neural Machine Translation</title>
+      <link>https://ldi-kyunghee.github.io/publication/advsr/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/advsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomedical Entity Representations with Synonym Marginalization</title>
+      <link>https://ldi-kyunghee.github.io/publication/biosyn/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/biosyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferability of Natural Language Inference to Biomedical Question Answering</title>
+      <link>https://ldi-kyunghee.github.io/publication/bioasq/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/bioasq/</guid>
+      <description></description>
     </item>
     
   </channel>
