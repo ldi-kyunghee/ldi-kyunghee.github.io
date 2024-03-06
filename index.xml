@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mujeen Sung</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ldi-kyunghee.github.io/</link>
+      <atom:link href="https://ldi-kyunghee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mujeen Sung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ldi-kyunghee.github.io/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
       <title>Mujeen Sung</title>
-      <link>http://localhost:4321/</link>
+      <link>https://ldi-kyunghee.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:4321/talk/example-talk/</link>
+      <link>https://ldi-kyunghee.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/example-talk/</guid>
+      <guid>https://ldi-kyunghee.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,17 +34,17 @@
     
     <item>
       <title>Pre-training Intent-Aware Encoders for Zero- and Few-Shot Intent Classification</title>
-      <link>http://localhost:4321/publication/pie/</link>
+      <link>https://ldi-kyunghee.github.io/publication/pie/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/pie/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/pie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>http://localhost:4321/post/blog-with-jupyter/</link>
+      <link>https://ldi-kyunghee.github.io/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/blog-with-jupyter/</guid>
+      <guid>https://ldi-kyunghee.github.io/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -69,7 +69,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:4321/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;https://ldi-kyunghee.github.io/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -89,49 +89,49 @@
     
     <item>
       <title>Optimizing Test-Time Query Representations for Dense Retrieval</title>
-      <link>http://localhost:4321/publication/tour/</link>
+      <link>https://ldi-kyunghee.github.io/publication/tour/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/tour/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BERN2 an advanced neural biomedical named entity recognition and normalization tool</title>
-      <link>http://localhost:4321/publication/bern2/</link>
+      <link>https://ldi-kyunghee.github.io/publication/bern2/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/bern2/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/bern2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full-text chemical identification with improved generalizability and tagging consistency</title>
-      <link>http://localhost:4321/publication/biocreative/</link>
+      <link>https://ldi-kyunghee.github.io/publication/biocreative/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/biocreative/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/biocreative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Language Models be Biomedical Knowledge Bases?</title>
-      <link>http://localhost:4321/publication/biolama/</link>
+      <link>https://ldi-kyunghee.github.io/publication/biolama/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/biolama/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/biolama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Dense Representations of Phrases at Scale</title>
-      <link>http://localhost:4321/publication/densephrases/</link>
+      <link>https://ldi-kyunghee.github.io/publication/densephrases/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/densephrases/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/densephrases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:4321/post/getting-started/</link>
+      <link>https://ldi-kyunghee.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/getting-started/</guid>
+      <guid>https://ldi-kyunghee.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -209,9 +209,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://ldi-kyunghee.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://ldi-kyunghee.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -242,7 +242,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:4321/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://ldi-kyunghee.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -250,33 +250,33 @@
     
     <item>
       <title>Adversarial Subword Regularization for Robust Neural Machine Translation</title>
-      <link>http://localhost:4321/publication/advsr/</link>
+      <link>https://ldi-kyunghee.github.io/publication/advsr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/advsr/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/advsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomedical Entity Representations with Synonym Marginalization</title>
-      <link>http://localhost:4321/publication/biosyn/</link>
+      <link>https://ldi-kyunghee.github.io/publication/biosyn/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/biosyn/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/biosyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transferability of Natural Language Inference to Biomedical Question Answering</title>
-      <link>http://localhost:4321/publication/bioasq/</link>
+      <link>https://ldi-kyunghee.github.io/publication/bioasq/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/bioasq/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/bioasq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:4321/post/writing-technical-content/</link>
+      <link>https://ldi-kyunghee.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/writing-technical-content/</guid>
+      <guid>https://ldi-kyunghee.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -376,7 +376,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-615473289&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-817542396&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -386,7 +386,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-615473289&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-817542396&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -669,17 +669,17 @@ Crash --&gt; [*]
     
     <item>
       <title>A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining</title>
-      <link>http://localhost:4321/publication/bern/</link>
+      <link>https://ldi-kyunghee.github.io/publication/bern/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/bern/</guid>
+      <guid>https://ldi-kyunghee.github.io/publication/bern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:4321/slides/example/</link>
+      <link>https://ldi-kyunghee.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/slides/example/</guid>
+      <guid>https://ldi-kyunghee.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -802,9 +802,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>http://localhost:4321/project/example/</link>
+      <link>https://ldi-kyunghee.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/example/</guid>
+      <guid>https://ldi-kyunghee.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -815,9 +815,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>http://localhost:4321/project/external-project/</link>
+      <link>https://ldi-kyunghee.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/external-project/</guid>
+      <guid>https://ldi-kyunghee.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
