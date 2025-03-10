@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Rationale-Guided Retrieval Augmented Generation for Medical Question Answering</title>
+      <link>https://ldi-kyunghee.github.io/publication/ragrag/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/ragrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structured List-Grounded Question Answering</title>
       <link>https://ldi-kyunghee.github.io/publication/list2qa/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -400,7 +408,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-519478236&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892715643&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -410,7 +418,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-519478236&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-892715643&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

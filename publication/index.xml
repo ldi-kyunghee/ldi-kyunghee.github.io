@@ -5,12 +5,20 @@
     <link>https://ldi-kyunghee.github.io/publication/</link>
       <atom:link href="https://ldi-kyunghee.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ldi-kyunghee.github.io/media/icon_huf081486858d26c62b00f29395a00c061_65999_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ldi-kyunghee.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Rationale-Guided Retrieval Augmented Generation for Medical Question Answering</title>
+      <link>https://ldi-kyunghee.github.io/publication/ragrag/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ldi-kyunghee.github.io/publication/ragrag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structured List-Grounded Question Answering</title>
